@@ -1,0 +1,14 @@
+c:\All\code\f1\dev\cSharp\DebugProject\bin\Debug\net8.0\DebugProject.exe
+c:\All\code\f1\dev\cSharp\DebugProject\bin\Debug\net8.0\DebugProject.deps.json
+c:\All\code\f1\dev\cSharp\DebugProject\bin\Debug\net8.0\DebugProject.runtimeconfig.json
+c:\All\code\f1\dev\cSharp\DebugProject\bin\Debug\net8.0\DebugProject.dll
+c:\All\code\f1\dev\cSharp\DebugProject\bin\Debug\net8.0\DebugProject.pdb
+c:\All\code\f1\dev\cSharp\DebugProject\obj\Debug\net8.0\DebugProject.GeneratedMSBuildEditorConfig.editorconfig
+c:\All\code\f1\dev\cSharp\DebugProject\obj\Debug\net8.0\DebugProject.AssemblyInfoInputs.cache
+c:\All\code\f1\dev\cSharp\DebugProject\obj\Debug\net8.0\DebugProject.AssemblyInfo.cs
+c:\All\code\f1\dev\cSharp\DebugProject\obj\Debug\net8.0\DebugProject.csproj.CoreCompileInputs.cache
+c:\All\code\f1\dev\cSharp\DebugProject\obj\Debug\net8.0\DebugProject.dll
+c:\All\code\f1\dev\cSharp\DebugProject\obj\Debug\net8.0\refint\DebugProject.dll
+c:\All\code\f1\dev\cSharp\DebugProject\obj\Debug\net8.0\DebugProject.pdb
+c:\All\code\f1\dev\cSharp\DebugProject\obj\Debug\net8.0\DebugProject.genruntimeconfig.cache
+c:\All\code\f1\dev\cSharp\DebugProject\obj\Debug\net8.0\ref\DebugProject.dll

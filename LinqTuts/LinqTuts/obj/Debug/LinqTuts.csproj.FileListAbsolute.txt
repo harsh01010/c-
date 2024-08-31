@@ -1,0 +1,7 @@
+C:\Users\glaxoo\source\repos\LinqTuts\LinqTuts\bin\Debug\LinqTuts.exe.config
+C:\Users\glaxoo\source\repos\LinqTuts\LinqTuts\bin\Debug\LinqTuts.exe
+C:\Users\glaxoo\source\repos\LinqTuts\LinqTuts\bin\Debug\LinqTuts.pdb
+C:\Users\glaxoo\source\repos\LinqTuts\LinqTuts\obj\Debug\LinqTuts.csproj.AssemblyReference.cache
+C:\Users\glaxoo\source\repos\LinqTuts\LinqTuts\obj\Debug\LinqTuts.csproj.CoreCompileInputs.cache
+C:\Users\glaxoo\source\repos\LinqTuts\LinqTuts\obj\Debug\LinqTuts.exe
+C:\Users\glaxoo\source\repos\LinqTuts\LinqTuts\obj\Debug\LinqTuts.pdb

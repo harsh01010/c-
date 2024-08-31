@@ -1,0 +1,7 @@
+C:\Users\glaxoo\source\repos\Oop\Oop\bin\Debug\Oop.exe.config
+C:\Users\glaxoo\source\repos\Oop\Oop\bin\Debug\Oop.exe
+C:\Users\glaxoo\source\repos\Oop\Oop\bin\Debug\Oop.pdb
+C:\Users\glaxoo\source\repos\Oop\Oop\obj\Debug\Oop.csproj.AssemblyReference.cache
+C:\Users\glaxoo\source\repos\Oop\Oop\obj\Debug\Oop.csproj.CoreCompileInputs.cache
+C:\Users\glaxoo\source\repos\Oop\Oop\obj\Debug\Oop.exe
+C:\Users\glaxoo\source\repos\Oop\Oop\obj\Debug\Oop.pdb
